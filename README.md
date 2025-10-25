@@ -26,7 +26,7 @@ Consome a **ToDo API (ASP.NET Core)** para listar, criar e gerenciar tarefas.
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seuusuario/todo-blazor-web.git
+git clone https://github.com/ajoao42/todo-blazor-web.git
 cd todo-blazor-web
 
 # Restaurar dependências
